@@ -1,0 +1,5 @@
+.venv
+.idea
+.vscode
+.ipynb_checkpoints
+data/output/model/
